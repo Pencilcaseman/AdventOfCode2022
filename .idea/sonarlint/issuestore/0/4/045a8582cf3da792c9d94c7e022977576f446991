@@ -1,0 +1,13 @@
+
+epython:S1192d"HDefine a constant instead of duplicating this literal "addx -1" 9 times.(–›Ò®üÿÿÿÿ
+`python:S1192b"HDefine a constant instead of duplicating this literal "addx -3" 4 times.(õ´şŠ
+`python:S1192’"GDefine a constant instead of duplicating this literal "addx 2" 8 times.(•¡´©
+fpython:S1192`"IDefine a constant instead of duplicating this literal "addx -11" 3 times.(‰èäœúÿÿÿÿ
+epython:S1192"GDefine a constant instead of duplicating this literal "addx 7" 3 times.(ÏäçŞúÿÿÿÿ
+_python:S1192c"GDefine a constant instead of duplicating this literal "addx 5" 7 times.(É´ş¬
+`python:S1192Â"GDefine a constant instead of duplicating this literal "addx 3" 4 times.(Èİ„ü
+epython:S1192s"HDefine a constant instead of duplicating this literal "addx 1" 20 times.(°ËË›ıÿÿÿÿ
+lpython:S3776	"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(§ˆò
+@python:S108")Either remove or fill this block of code.(ã‘Û¾
+rpython:S37763"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(á‹Ô8Ğ‹áòÏ0
+@python:S108F")Either remove or fill this block of code.(ã‘Û¾
